@@ -1,0 +1,36 @@
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe.config
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe.manifest
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\bin\Debug\KanBan Board.application
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\bin\Debug\KanBan Board.pdb
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csprojAssemblyReference.cache
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.About.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.AssignWorkerDialog.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Form1.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Help.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.JobCard.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Properties.Resources.resources
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csproj.GenerateResource.cache
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csproj.CoreCompileInputs.cache
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.exe.manifest
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.application
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.exe
+C:\Users\Vanethrane\source\repos\KanBan Board\KanBan Board\obj\Debug\KanBan Board.pdb
+G:\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe.config
+G:\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe.manifest
+G:\KanBan Board\KanBan Board\bin\Debug\KanBan Board.application
+G:\KanBan Board\KanBan Board\bin\Debug\KanBan Board.exe
+G:\KanBan Board\KanBan Board\bin\Debug\KanBan Board.pdb
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csprojAssemblyReference.cache
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.About.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.AssignWorkerDialog.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Form1.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Help.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.JobCard.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan_Board.Properties.Resources.resources
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csproj.GenerateResource.cache
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.csproj.CoreCompileInputs.cache
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.exe.manifest
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.application
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.exe
+G:\KanBan Board\KanBan Board\obj\Debug\KanBan Board.pdb
